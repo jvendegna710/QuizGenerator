@@ -1,0 +1,109 @@
+body {
+    background-color: #fff8dc;
+}
+#pageTitle {
+    width: 100%;
+    text-align: center;
+    font-size: 2.2em;
+    font-weight: bold;
+    margin-bottom: .5em;
+}
+#formdiv {
+    background-color: #f3f2f0;
+    width: 40%;
+    margin: 0pt auto 0pt auto;
+    border: .3em double darkgrey;
+    height: 40em;
+    padding: .5em;
+}
+#tablediv {
+    overflow: scroll;
+}
+#header {
+    position: relative;
+    font-size: 1.9em;
+    font-weight: bold;
+    text-decoration: underline;
+    padding-bottom: .5em;
+    text-align: center;
+}
+#qidRow {
+    position: relative;
+    font-size: 1.5em;
+    padding-bottom: .5em;
+    text-align: center;
+}
+#qtable {
+    
+    margin: auto;
+    overflow: scroll;
+    padding: 0px;
+    border-collapse: collapse;
+    border: .1em solid lightgrey;
+    width: 93%;
+    height: 80%;
+}
+#bottomDiv {
+    background-color: #f3f2f0;
+    width: 100%;
+    margin: 0pt auto 0pt auto;
+    padding-top: 10px;
+}
+.dropDowns {
+    width: 100%;
+    max-width: 130pt;
+}
+.respTD {
+    padding-left: 2em;
+    padding-top: 2em;
+    margin-top: .25in!important;
+    vertical-align: middle;
+    text-align: center;
+}
+.questionA {
+    background-color: lightgrey;
+   
+    vertical-align: middle;
+}
+.questionB {
+    background-color: oldlace;
+    
+    vertical-align: middle;
+}
+.buttons {
+    padding-left: 10%;
+    padding-right: .5em;
+}
+.questions {
+    padding: 2pt;
+}
+.resp {
+    margin-bottom: .5em;
+}
+.qlabel {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.ddown {
+    width: 80%;
+    text-align: center;
+    font-size: 1.2em;
+}
+.c_row {
+    height: 3em;
+}
+.question {
+    padding-left:6em; 
+    border-top:thin solid black;
+    border-bottom:thin solid black;
+    border-left:thin solid black; 
+    width:50%;
+}
+.answer {
+    padding-left:3em; 
+    border-top:thin solid black;
+    border-bottom:thin solid black;
+    border-right:thin solid black; 
+    width:50%;
+}

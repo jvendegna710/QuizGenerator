@@ -1,0 +1,16 @@
+
+HTML{
+    background-color:white!important;
+}
+BODY{
+    background-color:white!important;
+}
+.noprint {
+    display:none;
+}
+#printdata {
+display: block;
+width: auto;
+height: auto;
+overflow: visible;
+}
